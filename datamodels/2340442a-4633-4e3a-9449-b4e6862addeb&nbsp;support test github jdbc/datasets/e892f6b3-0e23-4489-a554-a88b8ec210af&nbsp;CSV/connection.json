@@ -1,0 +1,8 @@
+{
+    "createdByUser": true,
+    "oid": "340f8863-27b6-4b38-930a-5ae7c50c55bc",
+    "provider": "GenericJDBC_CDATACSV",
+    "schema": "CSV",
+    "uiParams": {
+    }
+}
